@@ -51,7 +51,7 @@ map('n','S','ciw<C-r>0<ESC>', options)
 map('n', '<leader>a', '^', options)
 map('n', '<leader>e', '$', options)
 -- better navigate within insert mode
-map('i', '<C-a>', '<ESC>^i', options)
+-- map('i', '<C-a>', '<ESC>^i', options)
 map('i', '<C-e>', '<End>', options)
 map('i', '<C-j>', '<Down>', options)
 map('i', '<C-k>', '<Up>', options)
